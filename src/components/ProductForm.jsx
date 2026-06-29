@@ -52,7 +52,6 @@ function ProductForm() {
             return;
         }
 
-        console.log(formData);
         const data = {
             name: formData.name,
             image: formData.image,
