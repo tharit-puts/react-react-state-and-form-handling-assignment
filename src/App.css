@@ -123,6 +123,13 @@ input::placeholder {
   margin-bottom: 10px;
 }
 
+.input-container .error {
+  color: red;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
 label {
   display: flex;
   align-items: center;
